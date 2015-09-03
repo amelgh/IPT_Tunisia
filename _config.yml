@@ -17,8 +17,8 @@ description: "The Institut Pasteur of Tunis study group."
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome To Our Study Group!"
-headlineMain: "Let's Work Together"
+headlineSmall: "Welcome To The Institut Pasteur of Tunis Study Group!"
+headlineMain: "Let's Innovate Together"
 
 # Setup Google Calendar
 # Usage:
@@ -26,7 +26,7 @@ headlineMain: "Let's Work Together"
 # 2. change 'USER' in the example urls below to the username of the google account you made for your calendar
 # 3. set calendar_on: True.
 
-calendar_on: False
+calendar_on: True
 calendar_embed_url: "https://www.google.com/calendar/embed?src=iptstudygroup@gmail.com"
 calendar_ical_url: "https://www.google.com/calendar/ical/iptstudygroup@gmail.com/public/basic.ics"
 
