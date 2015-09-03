@@ -1,6 +1,25 @@
-- name: Bill Mills
-  affiliation: Mozilla Science Lab
-  github: BillMills
+- name: Amel Ghouila
+  affiliation: Institut Pasteur de Tunis
+  github: amelgh
   interests:
-    - Programming
+    - Bioinformatics
+    - Programing
     - Open Science
+
+- name: Fatma Guerfali
+  affiliation: Institut Pasteur de Tunis
+  github: ...
+  interests:
+    - Bioinformatics
+    - Parasitology
+    - NGS
+    - Biology
+  
+- name: Mohamed Alibi
+  affiliation: Institut Pasteur de Tunis
+  github: medalibi
+  interests:
+    - Linux System Administration
+    - Network System
+    - Computer Science
+    - Programing
