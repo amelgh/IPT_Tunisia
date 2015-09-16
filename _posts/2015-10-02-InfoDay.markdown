@@ -3,7 +3,7 @@ title: IPT Study Group Info Day
 text: Introducing the IPT Study Group Objectives and Schedule
 location: Institut Pasteur de Tunis
 link: http://amelgh.github.io/IPT_Tunisia/
-date: 2015-10-07
+date: 2015-10-02
 startTime: '10:00'
 endTime: '12:00'
 ---
