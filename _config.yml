@@ -3,7 +3,7 @@
 
 #Step 1: give your study group a name and a short description:
 title: IPT Study Group
-description: "The Institut Pasteur of Tunis study group."
+description: "The Institut Pasteur of Tunis Mozilla study group."
 
 #Step 2: press the green 'Commit Changes' button at the bottom of this page.
 
@@ -17,8 +17,8 @@ description: "The Institut Pasteur of Tunis study group."
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome To The Institut Pasteur of Tunis Study Group!"
-headlineMain: "Let's Learn & Innovate Together"
+headlineSmall: "Welcome To The Institut Pasteur of Tunis Mozilla Study Group!"
+headlineMain: "Let's Learn Together"
 
 # Setup Google Calendar
 # Usage:
